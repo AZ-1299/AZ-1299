@@ -16,9 +16,7 @@ PythonやJavaを用いたアプリケーション開発を行っています。
 - Python
 - Java
 - SQLite
-- HTML
-<br>
-など
+- HTMLなど
 ---
 
 ## 開発
