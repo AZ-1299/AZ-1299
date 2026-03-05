@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**AZ-1299/AZ-1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AIや画像認識分野に興味があります。  
+PythonやJavaを用いたアプリケーション開発を行っています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 興味分野
+- 画像認識
+- 生成AI
+- AI
+
+---
+
+## 使用技術
+- Python
+- Java
+- SQLite
+- HTML
+
+---
+
+## 開発
+個人でアプリケーション開発やツール開発を行っています。  
+主に Python / Java を用いた開発を行っています。
+
+---
+
+## GitHub
+作成したプログラムやツールを公開しています。
